@@ -9,3 +9,12 @@
 2. Work Directory 내 파일 생성
 
 3. Index (충돌 해결 ) 등록
+
+
+#github를 이용하는 전체 흐름 이해하기1
+https://blog.outsider.ne.kr/865
+
+#github를 이용하는 전체 흐름 이해하기2
+https://blog.outsider.ne.kr/866
+
+
