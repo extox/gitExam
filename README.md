@@ -8,4 +8,4 @@
  
 2. Work Directory 내 파일 생성
 
-3. Index 등록
+3. Index (충돌 발생 부분1) 등록
