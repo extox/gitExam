@@ -3,6 +3,9 @@
 
 #Git 사용법
 
-1. Work Directory 생성
+1. Work Directory(Tree) 생성
  Work Directory 는 Local에서 실제 프로젝트 소스가 위치해야 하는 공간입니다.
  
+2. Work Directory 내 파일 생성
+
+3. Index 등록
